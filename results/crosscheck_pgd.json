@@ -1,0 +1,10 @@
+{
+  "ckpt": "checkpoints\\std_r18.pt",
+  "eps": 8.0,
+  "steps": 20,
+  "n": 1000,
+  "asr_self": 1.0,
+  "asr_torchattacks": 1.0,
+  "diff_pp": 0.0,
+  "torchattacks_version": "3.5.1"
+}

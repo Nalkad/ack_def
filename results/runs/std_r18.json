@@ -1,0 +1,23 @@
+{
+  "tag": "std_r18",
+  "reconstructed_from": "results/logs\\std_r18.csv",
+  "epochs": 6,
+  "final_test_acc": 0.8349,
+  "total_train_time_s": 2139.0,
+  "epoch_time_s": 356.49,
+  "peak_mem_gb": 0.0,
+  "robust_probe_acc": 0.0,
+  "env": {
+    "python": "3.12.14",
+    "torch": "2.4.1+cu121",
+    "torchvision": "0.19.1+cu121",
+    "cuda_available": true,
+    "cuda_version": "12.1",
+    "cudnn": 90100,
+    "platform": "Windows-10-10.0.19045-SP0",
+    "cpu": "Intel64 Family 6 Model 85 Stepping 4, GenuineIntel",
+    "gpu": "NVIDIA GeForce GT 1030",
+    "gpu_total_mem_gb": 2.0,
+    "gpu_capability": "6.1"
+  }
+}

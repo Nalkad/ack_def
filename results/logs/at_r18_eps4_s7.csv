@@ -1,0 +1,2 @@
+epoch,lr,train_loss,train_acc,test_acc,epoch_time_s,peak_mem_gb,robust_probe_acc
+1,0.05,1.6377,0.3916,0.6758,2058.78,0.0,0.2383

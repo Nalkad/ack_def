@@ -1,0 +1,2 @@
+n,clean_acc,asr,uncond_err,robust_acc,mean_l2_succ,mean_linf_succ,mean_l2_all,mean_linf_all,time_ms_per_img,peak_mem_gb,model,attack,eps,steps
+1000,0.8300000429153442,1.0,1.0,0.0,0.35549330711364746,0.026831546798348427,0.2956877052783966,0.02233402244746685,1528.565093100071,2.19,std_r18,cw_l2,,50
